@@ -1,4 +1,4 @@
-##Eventrix## is a Rails application analytics tool 
+##Eventrix is a Rails application analytics tool 
 
 Register your application in Eventrix and receive actionable event analytics services and reports that help you understand how users are employing your services.
 
